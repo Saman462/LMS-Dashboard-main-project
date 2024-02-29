@@ -6,17 +6,16 @@ This project is a dashboard for a Learning Management System (LMS) built using H
 - **Login Page:**
   This page provides the interface for users to log in to the Learning Management System. Users can input their credentials to access the system.
 
-  ![Login Page](login_page.png)  <!-- You can replace 'login_page.png' with the actual filename of your login page screenshot -->
-
 - **Main Dashboard:**
   The main dashboard displays various modules and features of the Learning Management System. It provides an overview of courses, assignments, announcements, and other relevant information.
 
-- **Course Pages:**
-  Each course has its dedicated page where students can access course materials, submit assignments, participate in discussions, and view grades.
-
 - **User Profile:**
-  Users can view and update their profile information, such as name, email, password, etc., on the profile page.
+  Users can view and update their profile information, such as name, email, password, attendance, and grades, on the profile page.
 
+- **Faculty Profile:**
+  Users can view faculty information, such as name, email, password, publications.
+
+  
 ### Technologies Used:
 - **Frontend:**
   - HTML: Used for structuring the web pages.
